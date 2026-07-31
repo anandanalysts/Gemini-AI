@@ -1,0 +1,6 @@
+{
+  "name": "Gemini AI Assistant & Multi-Role Chatbot",
+  "description": "Multi-turn Gemini AI chatbot with customizable system instructions, persona roles, model switching, and chat history management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
